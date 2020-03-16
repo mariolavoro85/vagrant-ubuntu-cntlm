@@ -15,7 +15,7 @@
 - [Vagrant box: 'ubuntu-18.04-cntlm'](https://app.vagrantup.com/mariolavoro85/boxes/ubuntu-18.04-cntlm)
     ```bash
     # download the box
-    vagrant box add mariolavoro85/ubuntu-18.04-docker
+    vagrant box add mariolavoro85/ubuntu-18.04-cntlm
     ```
 - Environment vars:
     ```bash
